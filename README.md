@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on e-comm iOS apps at VK
+- 🔭 I’m currently working on B2B iOS apps at VK
 - 📫 How to reach me: Telegram @danlomaev
 - ⚡ Fun fact: I'm really like rock-music 🎸
 
